@@ -2905,6 +2905,7 @@ PROJECT-Oneplus-sm8650:
   - LineageOS/android_device_oneplus_corvette
   - LineageOS/android_device_oneplus_sm8650-common
   - LineageOS/android_device_oneplus_waffle
+  - LineageOS/android_device_realme_bale
   - LineageOS/android_kernel_oneplus_sm8650
   - LineageOS/android_kernel_oneplus_sm8650-devicetrees
   - LineageOS/android_kernel_oneplus_sm8650-modules
